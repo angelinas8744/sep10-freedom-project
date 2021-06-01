@@ -1,1 +1,27 @@
+body {
+  background-color: #B8B1E3;
+  color: #464457
+}
 
+p{
+    font-family: monospace;
+    font-size: 20px;
+    color:#513779;
+}
+
+p2{
+    font-family: monospace;
+    font-size: 20px;
+    color:#513779;
+}
+li{
+    font-size: 20px;
+    color:#020A96;
+    font-family: Georgia ;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
