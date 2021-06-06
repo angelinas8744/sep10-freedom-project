@@ -23,5 +23,24 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 30%;
+  border: 10px solid #89c1fa;
+}
+
+
+  .blue-border {
+    border-color: #89c1fa;
+    border-style: solid;
+  }
+  
+  .pink-background {
+  background-color: #e5a1f1;
+  
+}
+
+p3{
+    font-family: monospace;
+    font-size: 20px;
+    color: #513779;
+     background-color: #89c1fa
 }
