@@ -1,49 +1,49 @@
 body {
-  background-color: #B8B1E3;
+  background-color: #B3BF99;
   color: #464457
 }
 
 p{
     font-family: monospace;
     font-size: 20px;
-    color:#513779;
+    color:#0D0D0D;
 }
 
 p2{
     font-family: monospace;
     font-size: 20px;
-    color:#513779;
+    color:#0D0D0D;
 }
 li{
-    font-size: 20px;
-    color:#020A96;
+    font-size: 25px;
+    color:#0D0D0D;
     font-family: Georgia ;
 }
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
+  width: 45%;
 }
 
 
   .blue-border {
-    border-color: #89c1fa;
+    border-color: #87A182;
     border-style: solid;
   }
   
   .pink-background {
-  background-color: #e5a1f1;
+  background-color: #87A182;
   
 }
 
 p3{
-    font-family: monospace;
-    font-size: 20px;
-    color: #513779;
-    background-color: #89c1fa
+    font-family: Georgia;
+    font-size: 25px;
+    color: #2C4039;
+    background-color: #87A182
 }
 h2{
     font-family: monospace;
-    color: #513779;
+    color: #354024;
 }
